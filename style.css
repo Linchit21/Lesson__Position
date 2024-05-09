@@ -12,6 +12,7 @@
 
 .container__title {
     margin: 0 auto;
+    padding-top: 400px;
     text-align: center;
     font-size: 55px;
     font-weight: 700;
@@ -90,44 +91,44 @@
 .img__4 {
     position: relative;
     bottom: 1100px;
-    left: 350px;
+    left: 1550px;
 }
 
 
 .img__5 {
     position: relative;
     bottom: 1100px;
-    left: 1550px;
+    left: 2950px;
 }
 
 .img__6 {
     position: relative;
     bottom: 800px;
-    right: 150px;
+    left: 1050px;
 }
 
 .img__7 {
     position: relative;
     bottom: 800px;
-    left: 1550px;
+    left: 2950px;
 }
 
 .img__8 {
     position: relative;
     bottom: 500px;
-    right: 300px;
+    left: 1000px;
 }
 
 .img__9 {
     position: relative;
     bottom: 500px;
-    left: 1150px;
+    left: 2450px;
 }
 
 .direction {
     position: relative;
     bottom: 675px;
-    left: 1200px;
+    left: 2500px;
 }
 
 .direction_left {
