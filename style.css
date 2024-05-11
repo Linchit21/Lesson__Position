@@ -7,7 +7,7 @@
 
 
 .section {
-    background:#6976a0;
+    background:#e2e4e9;
     padding-bottom: 550px;
 }
 
@@ -18,6 +18,7 @@
     font-size: 55px;
     font-weight: 700;
     width: 520px;
+    padding-top: 300px;
 }
 
 
@@ -25,6 +26,7 @@
     /* border: 2px solid orange; */
     border-radius: 20px;
     max-width: 1400px;
+    width: 100%;
     margin: 0 auto;
     position: relative;
 }
@@ -45,7 +47,7 @@
 .frame__1 {
     width: 650px;
     height: 400px;
-    background: rgb(14, 154, 77);
+    background: rgb(206, 213, 209);
     position: absolute;
     z-index: 2;
     border-radius: 20px;
@@ -55,7 +57,7 @@
 .frame__2 {
     width: 700px;
     height: 400px;
-    background: rgb(203, 59, 59);
+    background: rgb(177, 172, 172);
     position: absolute;
     z-index: 3;
     border-radius: 20px;
@@ -71,7 +73,7 @@
 .frame__3 {
     width: 600px;
     height: 400px;
-    background: rgb(47, 25, 124);
+    background: rgb(162, 161, 167);
     position: absolute;
     top: 35%;
     z-index: 1;
@@ -82,13 +84,13 @@
 .img__1 {
     position: absolute;
     top: 70%;
-    left: 50%;
+    left: 10%;
 }
 
 .img__2 {
     position: absolute;
     top: 15%;
-    left: 10%;
+    left: 50%;
 }
 
 .img__3 {
@@ -96,7 +98,7 @@
    top: 50%;
    left: 50%;
    transform: translate(-50%,-50%);
-   opacity: 50%;
+   opacity: 60%;
 }
 
 .img__4 {
@@ -136,13 +138,14 @@
     right: 15%;
 }
 
-.direction {
-    position: relative;
-    bottom: 675px;
-    left: 2500px;
+.img__10 {
+    position: absolute;
+    top: 90%;
+    left: 60%;
 }
 
-.direction_left {
-    position: relative;
-    bottom: 5px;
+.img__11 {
+    position: absolute;
+    top: 90%;
+    left: 65%;
 }
